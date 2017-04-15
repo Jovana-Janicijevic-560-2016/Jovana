@@ -1,0 +1,29 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Fri Apr 14 08:39:37 UTC 2017.
+#
+# This is license NODELOCKED to HOSTID=ANY;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Fri Apr 14 08:39:37 UTC 2017
+INCREMENT SDK xilinxd 2018.04 permanent uncounted 69825807AE27 \
+VENDOR_STRING=janicko.janicije97@gmail.com,SDK,software,permanent,_211341872_0_0_507 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 08:39:37 UTC 2017
+INCREMENT Analyzer xilinxd 2018.04 permanent uncounted 52D232C819A3 \
+VENDOR_STRING=janicko.janicije97@gmail.com,Analyzer,software,permanent,_211341872_0_0_323 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 08:39:37 UTC 2017
+INCREMENT HLS xilinxd 2018.04 permanent uncounted BF0AE9DB8B95 \
+VENDOR_STRING=janicko.janicije97@gmail.com,HLS,software,permanent,_211341872_0_0_962 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=14-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Fri Apr 14 08:39:37 UTC 2017
+INCREMENT V_WebPACK xilinxd 2018.04 permanent uncounted 95E7069F8B64 \
+VENDOR_STRING=janicko.janicije97@gmail.com,V_WebPACK,software,permanent,_211341872_0_0_506 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=14-Apr-2017 TS_OK
+#
+# ----- REMOVE LINES BELOW HERE --------------------------
